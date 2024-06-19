@@ -1,0 +1,114 @@
+#NFSU{
+    width: 346px;
+    height: 257px; 
+}
+
+#NFSU2{
+    width: 352px; 
+    height: 223px; 
+}
+
+#NFSMW{
+    width: 352px; 
+    height: 196px;
+}
+
+#NFSC{
+    width: 369px; 
+    height: 187px; 
+}
+
+#NFSUN{
+    width: 374px; 
+    height: 214px; 
+}
+
+#NFSW{
+    width: 374px;
+    height: 222px; ;
+}
+
+#NFSR{
+    width: 374px; 
+    height: 194px;
+}
+
+#NFSMW12{
+    width: 374px; ;
+    height: 210px; ;
+}
+
+#SE1{
+    width: 374px; 
+    height: 246px; 
+}
+    
+#SE2{
+    width: 379px; 
+    height: 213px; 
+}
+
+#SE3{
+    width: 379px; 
+    height: 205px; 
+}
+
+#SC1{
+    width: 385px; 
+    height: 218px; 
+}
+
+#SC2{
+    width: 385px; 
+    height: 217px; 
+}
+
+#COD1{
+    width: 394px; 
+    height: 251px; ;
+}
+
+#COD2{
+    width: 394px; 
+    height: 222px; ;
+}
+
+#COD3{
+    width: 403px; 
+    height: 227px; 
+}
+
+#SC1{
+    width: 403px; 
+    height: 222px; 
+}
+
+#SC2{
+    width: 403px; 
+    height: 243px; 
+}
+
+#B3{
+    width: 403px; 
+    height: 231px; 
+}
+
+#WB{
+    width: 409px; 
+    height: 230px; 
+}
+
+#M{
+    width: 409px; 
+    height: 182px; 
+}
+
+#Rectamgel{
+    width: 914px; 
+    height: 5731px; 
+}
+body{
+    background-image: url('Rectangle.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
